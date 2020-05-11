@@ -1,0 +1,6 @@
+[submodule "src/thirdparty/tinygltf"]
+	path = src/thirdparty/tinygltf
+	url = https://github.com/syoyo/tinygltf
+[submodule "src/thirdparty/lodepng"]
+	path = src/thirdparty/lodepng
+	url = https://github.com/lvandeve/lodepng
